@@ -12,12 +12,14 @@ public class HelloServlet extends HttpServlet {
     //由于get和post只是请求实现的不同方式，可以互相调用，业务逻辑都一样
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        PrintWriter writer = resp.getWriter();//响应流
-        
+        resp.setContentType("text/html");
+        resp.setContentType("utf-8");
+        PrintWriter writer = resp.getWriter();
+        writer.print("<h1>111<h1>");
     }
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.doPost(req, resp);
+        doGet(req, resp);
     }
 }
