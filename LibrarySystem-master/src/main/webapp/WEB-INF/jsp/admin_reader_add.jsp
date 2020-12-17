@@ -1,4 +1,4 @@
-<%@ page contentType="text/html; charset=UTF-8" language="java"  pageEncoding="UTF-8" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>添加读者</title>
@@ -56,6 +56,14 @@ background-attachment: fixed;">
                     $("#readeredit").submit(function () {
                         if($("#password").val()==''||$("#name").val()==''||$("#sex").val()==''||$("#birth").val()==''||$("#address").val()==''||$("#phone").val()==''){
                             alert("请填入完整读者信息！");
+                            return mySubmit(false);
+                        }
+                        if($("#phone").val().length!=11){
+                            alert("请输入正确的11位手机号码");
+                            return mySubmit(false);
+                        }
+                        if($("#sex").val()!="男"&&$("#sex").val()!="女"){
+                            alert("请输入正确的性别");
                             return mySubmit(false);
                         }
                     })
