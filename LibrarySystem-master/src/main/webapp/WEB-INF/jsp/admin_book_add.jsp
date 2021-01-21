@@ -42,7 +42,7 @@ background-attachment: fixed;">
         <div class="form-group">
             <label for="introduction">简介</label>
             <textarea class="form-control" rows="3" name="introduction" id="introduction"
-                      placeholder="请输入简介"></textarea>
+            placeholder="请输入简介"></textarea>
         </div>
         <div class="form-group">
             <label for="language">语言</label>
