@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9363d3ee-51f2-4224-a8d5-a8b6f16d6588" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LibrarySystem-master/.idea/LibrarySystem-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-01/src/main/java/com/Lee/Dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-01/src/main/java/com/Lee/Dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-01/src/main/java/com/Lee/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-01/src/main/java/com/Lee/utils/MybatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-01/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-01/src/test/java/com/Lee/Dao/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis-Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leatcode/leatcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leatcode/src/shuzu/摩尔投票.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/HTML.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/HTML.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/html/1.第一个网页.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/html/1.第一个网页.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/html/2.基本标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/html/2.基本标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/html/3.图像标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/html/3.图像标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/html/4.链接标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/html/4.链接标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/html/5.列表.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/html/5.列表.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/html/6.表格标签.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/html/6.表格标签.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/html/7.iframe内联框架.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/html/7.iframe内联框架.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/html/9.表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/html/9.表单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/IO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/IO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/TestBufferStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/TestBufferStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/TestDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/TestDataStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/TestFileInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/TestFileInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/TestFileOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/TestFileOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/TestFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/TestFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/TestPrintStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/TestPrintStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/TestTransform1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/TestTransform1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/TestTransform2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/TestTransform2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/Internet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/Internet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson1/TestInetAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson1/TestInetAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson1/TestInetSocketAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson1/TestInetSocketAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson2/TcpClientDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson2/TcpClientDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson2/TcpClientDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson2/TcpClientDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson2/TcpServerDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson2/TcpServerDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson2/TcpServerDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson2/TcpServerDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson3/UdpClientDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson3/UdpClientDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson3/UdpServerDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Internet/src/com/Lee/lesson3/UdpServerDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson03/1.获得dom节点.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson03/1.获得dom节点.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson03/2.更新节点.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson03/2.更新节点.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson03/3.操作表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson03/3.操作表单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson03/4.提交表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson03/4.提交表单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/1.认识jQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/1.认识jQuery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/2.选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/2.选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/3.事件.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/3.事件.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/4.操作dom.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/4.操作dom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/lib/jquery-3.5.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson04/lib/jquery-3.5.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/1.HelloWolrd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/1.HelloWolrd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/2.基本语法.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/2.基本语法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/3.测试.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/3.测试.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/4..html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/4..html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/5.数组.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/5.数组.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/6.拼接数组.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/6.拼接数组.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/7.对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/7.对象.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/8.Set和Map.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson1/8.Set和Map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/1.定义函数.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/1.定义函数.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/10.document.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/10.document.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/2.多个参数的问题.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/2.多个参数的问题.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/3.全局变量.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/3.全局变量.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/4.局部变量let.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/4.局部变量let.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/5.方法.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/5.方法.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/6.Date.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/6.Date.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/7.json.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/7.json.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/8.面向对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/8.面向对象.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/9.class继承.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/lesson2/9.class继承.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/JavaScript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/JavaScript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/dao/UserDaoMysqlImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/dao/UserDaoMysqlImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/dao/UserDaoOracalImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/dao/UserDaoOracalImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/dao/UserDaoimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/dao/UserDaoimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/java/com/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-01-ioc1/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/Spring-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/Spring-study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-02-hello/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-02-hello/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-02-hello/src/main/java/com/kuang/pojo/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-02-hello/src/main/java/com/kuang/pojo/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-02-hello/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-02-hello/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-02-hello/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-02-hello/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-02-hello/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-02-hello/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/src/main/java/com/kuang/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/src/main/java/com/kuang/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-03-ioc2/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/java/com/kuang/pojo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/java/com/kuang/pojo/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/java/com/kuang/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/java/com/kuang/pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/java/com/kuang/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/java/com/kuang/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/resources/userbeans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/main/resources/userbeans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-04-di/target/classes/userbeans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-04-di/target/classes/userbeans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/main/java/com/kuang/pojo/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/main/java/com/kuang/pojo/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/main/java/com/kuang/pojo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/main/java/com/kuang/pojo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/main/java/com/kuang/pojo/Peaple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/main/java/com/kuang/pojo/Peaple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-05-Autowired/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-06-anno/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-06-anno/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/java/com/Lee/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/java/com/Lee/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/java/com/Lee/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/java/com/Lee/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/java/com/Lee/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/java/com/Lee/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/java/com/Lee/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/java/com/Lee/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-06-anno/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-07-appconfig/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-07-appconfig/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-07-appconfig/src/main/java/com/Lee/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-07-appconfig/src/main/java/com/Lee/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-07-appconfig/src/main/java/com/Lee/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-07-appconfig/src/main/java/com/Lee/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-07-appconfig/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-07-appconfig/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo01/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo01/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo01/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo01/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo01/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo01/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo01/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo01/Rent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo02/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo02/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo02/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo02/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo02/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo02/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo02/UserServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo02/UserServiceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo03/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo03/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo03/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo03/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo03/ProxyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo03/ProxyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo03/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo03/Rent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo04/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo04/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo04/ProxyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-08-proxy/src/main/java/com/Lee/demo04/ProxyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/diy/AnnotationPointCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/diy/AnnotationPointCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/diy/DiyPointCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/diy/DiyPointCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/log/Afterlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/log/Afterlog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/log/log.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/log/log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/java/com/Lee/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/test/java/Mytest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/src/test/java/Mytest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/spring-09-AOP/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-study/注释.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-study/注释.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/Springmvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/Springmvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/controller/AnnoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/controller/AnnoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/controller/ParamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/controller/ParamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/domin/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/domin/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/domin/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/domin/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/utils/StringToDateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/java/cn/itcast/utils/StringToDateConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/resouces/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/resouces/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/webapp/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/webapp/anno.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/webapp/anno.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/webapp/param.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/webapp/param.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/webapp/param2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/webapp/param2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/src/main/webapp/param3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/src/main/webapp/param3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/anno.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/anno.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/param.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/param.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/param2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/param2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/param3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/Springmvc_day01_start/param3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springmvc/target/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springmvc/target/classes/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../autoSave.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../autoSave.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/target/javaweb-01-maven/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/target/javaweb-01-maven/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/target/javaweb-01-maven/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/target/javaweb-01-maven/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven/target/javaweb-01-maven/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven/target/javaweb-01-maven/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven02/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven02/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven02/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven02/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven02/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven02/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-01-maven02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-01-maven02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/src/main/java/com/Lee/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/src/main/java/com/Lee/servlet/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/src/main/webapp/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/src/main/webapp/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/target/request/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/target/request/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/target/request/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/target/request/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/target/request/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/target/request/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/request/target/request/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/request/target/request/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/java/com/Lee/servlet/FileServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/java/com/Lee/servlet/FileServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/java/com/Lee/servlet/ImageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/java/com/Lee/servlet/ImageServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/java/com/Lee/servlet/RedirectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/java/com/Lee/servlet/RedirectServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/java/com/Lee/servlet/RequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/java/com/Lee/servlet/RequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/webapp/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/src/main/webapp/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/target/response/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/target/response/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/target/response/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/target/response/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/target/response/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/target/response/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/response/target/response/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/response/target/response/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/servlet-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/servlet-01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/src/main/java/com/Lee/servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/src/main/java/com/Lee/servlet/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/target/servlet-01/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/target/servlet-01/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/target/servlet-01/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/target/servlet-01/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/target/servlet-01/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/servlet-01/target/servlet-01/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/GetServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/GetServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/PropertiesServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/PropertiesServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/ServletDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/ServletDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/ServletDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/ServletDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/ServletDemo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/java/com/Lee/Servlet/ServletDemo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/resource/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/resource/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/sevlet-02/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/sevlet-02/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/sevlet-02/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/sevlet-02/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/sevlet-02/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/sevlet-02/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/sevlet-02/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-02-servlet/sevlet-02/target/sevlet-02/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/.idea/artifacts/javaweb_filter_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/.idea/artifacts/javaweb_filter_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/javaweb-filter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/javaweb-filter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/Login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/Login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/sys/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/sys/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/sys/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/out/artifacts/javaweb_filter_war_exploded/sys/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/filter/CharacterEncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/filter/CharacterEncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/filter/SysFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/filter/SysFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/listener/OnlineCountListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/listener/OnlineCountListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/listener/TestPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/listener/TestPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/servlet/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/servlet/LoginoutServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/servlet/LoginoutServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/servlet/ShowServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/src/main/java/com/Lee/servlet/ShowServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/web/Login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/web/Login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/web/sys/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/web/sys/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-filter/web/sys/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-filter/web/sys/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/.idea/artifacts/javaweb_jsp_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/.idea/artifacts/javaweb_jsp_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/javaweb-jsp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/javaweb-jsp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/out/artifacts/javaweb_jsp_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/out/artifacts/javaweb_jsp_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/out/artifacts/javaweb_jsp_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/out/artifacts/javaweb_jsp_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/out/artifacts/javaweb_jsp_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/out/artifacts/javaweb_jsp_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-jsp/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-jsp/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/javaweb-session-cookie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/javaweb-session-cookie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/java/com/Lee/pojo/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/java/com/Lee/pojo/person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/java/com/Lee/servlet/CookieDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/java/com/Lee/servlet/CookieDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/java/com/Lee/servlet/SessionDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/java/com/Lee/servlet/SessionDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/java/com/Lee/servlet/SessionDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/java/com/Lee/servlet/SessionDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/target/javaweb-session-cookie-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/target/javaweb-session-cookie-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/target/javaweb-session-cookie-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/target/javaweb-session-cookie-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaweb-session-cookie/target/javaweb-session-cookie-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../javaweb-session-cookie/target/javaweb-session-cookie-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/leetcode/editor/cn/SimplifyPath .java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/leetcode/editor/cn/SimplifyPath .java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/StringToIntegerAtoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/StringToIntegerAtoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/SwapNodesInPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/SwapNodesInPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ThreeSumClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ThreeSumClosest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ZigzagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/leetcode/editor/en/ZigzagConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/shuzijun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode-question-master/leetcode-question-master/src/main/java/com/shuzijun/shuzijun.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/src/main/java/cn/itcast/controller/Usercontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/src/main/java/cn/itcast/controller/Usercontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/src/main/java/cn/itcast/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/src/main/java/cn/itcast/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/src/main/resouce/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/src/main/resouce/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/response.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/src/main/webapp/response.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/response.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/target/Springmvc_day01_start/response.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02/target/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02/target/classes/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02_01_respones/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02_01_respones/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02_01_respones/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02_01_respones/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc_day02_01_respones/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_day02_01_respones/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/Test07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/src/com/Lee/reflection/test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../注解和反射/注解和反射.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../注解和反射/注解和反射.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\RESOURCE\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="1lKSLzzTJk1IftEvbVJhiykFA1n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mybatis-01/src/main/java/com/Lee/Dao" />
+      <recent name="$PROJECT_DIR$/Mybatis-01/src/main/resources" />
+      <recent name="F:\Study_P\Study_Code\Mybatis-Study\Mybatis-01\src\main\java\com\Lee\Dao" />
+      <recent name="F:\Study_P\Study_Code\Mybatis-Study\Mybatis-01\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.Lee.Dao" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn mvn -U idea:idea" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UserDaoTest">
+    <configuration name="InstallCert (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lee.pojo.InstallCert" />
+      <module name="Mybatis-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lee.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstallCert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InstallCert" />
+      <module name="Mybatis-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lee.pojo.test" />
+      <module name="Mybatis-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lee.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.Lee.Dao" />
+      <option name="MAIN_CLASS_NAME" value="com.Lee.Dao.UserDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mybatis-01" />
+      <option name="PACKAGE_NAME" value="com.Lee.Dao" />
+      <option name="MAIN_CLASS_NAME" value="com.Lee.Dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDaoTest" />
+        <item itemvalue="JUnit.UserDaoTest.test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.InstallCert (1)" />
+        <item itemvalue="Application.InstallCert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9363d3ee-51f2-4224-a8d5-a8b6f16d6588" name="Default Changelist" comment="" />
+      <created>1607344238944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607344238944</updated>
+      <workItem from="1607344240319" duration="4198000" />
+      <workItem from="1607429836065" duration="2493000" />
+      <workItem from="1607432413997" duration="393000" />
+      <workItem from="1607433047203" duration="125000" />
+      <workItem from="1607514724170" duration="4104000" />
+      <workItem from="1607519436032" duration="1038000" />
+      <workItem from="1607520628572" duration="4851000" />
+      <workItem from="1607527844748" duration="47000" />
+      <workItem from="1607527904020" duration="136000" />
+      <workItem from="1607528051429" duration="145000" />
+      <workItem from="1607528210533" duration="39000" />
+      <workItem from="1607528332501" duration="1369000" />
+      <workItem from="1607530611538" duration="324000" />
+      <workItem from="1607530995908" duration="87000" />
+      <workItem from="1607594514775" duration="5017000" />
+      <workItem from="1608376317718" duration="385000" />
+      <workItem from="1609403042075" duration="269000" />
+      <workItem from="1614520789590" duration="4358000" />
+      <workItem from="1614567538333" duration="5750000" />
+      <workItem from="1614585612179" duration="2749000" />
+      <workItem from="1614737468457" duration="7238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+person:
+  name: lizhiwei
+  age: 50
+  happy: false
+  birth: 2021/04/15
+  maps: {k1: v1,k2: v2}
+  lists:
+    - code
+    - music
+    - boy
+  dog:
+    name: zzw
+    age: 11
+
+debug: true
+
