@@ -6,7 +6,7 @@ func main() {
 
 	var n [10]int
 	for i := 0; i < 10; i++ {
-		n[i] = i+100
+		n[i] = i + 100
 		fmt.Println(n[i])
 	}
 

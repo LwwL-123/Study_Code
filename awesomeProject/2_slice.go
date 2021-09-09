@@ -1,17 +1,20 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	s := [] int{1,2,3}
+	s := []int{1, 2, 3}
 	// 7为大小 9位最大容量
-	var ss = make([]int ,7,9)
+	var ss = make([]int, 7, 9)
 	printSlice(s)
 	printSlice(ss)
 
-	ss = append(ss, 10,11,12)
+	ss = append(ss, 10, 11, 12)
 	printSlice(ss)
-	
+
+	func(a int) { print(a + 1) }(5)
 	//numbers := []int{0,1,2,3,4,5,6,7,8}
 	///* 打印原始切片 */
 	//fmt.Println("numbers ==", numbers)
@@ -23,6 +26,6 @@ func main() {
 	//fmt.Println("numbers[:3] ==", numbers[:3])
 }
 
-func printSlice(x []int){
-	fmt.Printf("len=%d cap=%d slice=%v\n",len(x),cap(x),x)
+func printSlice(x []int) {
+	fmt.Printf("len=%d cap=%d slice=%v\n", len(x), cap(x), x)
 }
